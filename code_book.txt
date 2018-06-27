@@ -1,0 +1,114 @@
+﻿Id variables are 
+subject (there are 30)
+activity (there are 6)
+
+
+Measurement variables: there are 86, only means and standard deviations.
+I separated them in four groups according to the original code book. 
+Those groups are not mentioned in the data set as it was not also in the original one.
+
+
+
+All variables containing “mean”: Mean value for each measurement
+“tbodyaccmeanx" 
+"tbodyaccmeany"                     
+"tbodyaccmeanz"                     
+"tgravityaccmeanx"                  
+"tgravityaccmeany"                  
+"tgravityaccmeanz"                  
+"tbodyaccjerkmeanx"                 
+"tbodyaccjerkmeany"                 
+"tbodyaccjerkmeanz"                
+"tbodygyromeanx"                    
+"tbodygyromeany"                   
+"tbodygyromeanz"                   
+"tbodygyrojerkmeanx"               
+"tbodygyrojerkmeany"                
+"tbodygyrojerkmeanz"                
+"tbodyaccmagmean"                   
+“tgravityaccmagmean" 
+"tbodyaccjerkmagmean"              
+"tbodygyromagmean"                       
+"tbodygyrojerkmagmean"              
+"fbodyaccmeanx"                     
+"fbodyaccmeany"                     
+"fbodyaccmeanz"                    
+"fbodyaccstdx"                      
+"fbodyaccstdy"                     
+"fbodyaccstdz"                      
+"fbodyaccjerkmeanx"                
+"fbodyaccjerkmeany"                 
+"fbodyaccjerkmeanz"                
+"fbodygyromeanx"               
+“fbodygyromeany"                   
+"fbodygyromeanz"             
+"fbodygyrostdx"            
+"fbodygyrostdy"         
+"fbodygyrostdz"              
+"fbodybodyaccjerkmagmean"        
+"fbodyaccmagmean"                   
+"fbodybodygyromagmean"
+"fbodybodygyromagmeanfreq"          
+"fbodybodygyrojerkmagmean"          
+“fbodybodygyrojerkmagmeanfreq"      
+             
+
+
+All variable containing “std”: Standard deviation for those measurements
+"tbodyaccstdx"                      
+"tbodyaccstdy"                     
+"tbodyaccstdz"   
+"tgravityaccstdx"                  
+"tgravityaccstdy"                   
+"tgravityaccstdz"  
+“tbodyaccjerkstdx"                  
+"tbodyaccjerkstdy"                  
+"tbodyaccjerkstdz"   
+"tbodygyrostdx"                    
+"tbodygyrostdy"                     
+"tbodygyrostdz"  
+"tbodygyrojerkstdx"                 
+"tbodygyrojerkstdy"                 
+"tbodygyrojerkstdz" 
+"fbodybodygyromagstd" 
+"fbodybodygyrojerkmagstd" 
+"fbodyaccjerkstdx"                
+"fbodyaccjerkstdy"                
+"fbodyaccjerkstdz"
+"fbodybodyaccjerkmagstd"
+"fbodyaccmagstd" 
+"tbodygyrojerkmagstd"
+"tbodygyromagstd"  
+
+
+
+
+
+variables containing 
+meanfreq: Weighted average of the frequency components to obtain a mean frequency
+    
+"fbodyaccmagmeanfreq"   
+“fbodybodyaccjerkmagmeanfreq"              
+"fbodygyromeanfreqx"               
+"fbodygyromeanfreqy"            
+"fbodygyromeanfreqz"    
+“fbodyaccjerkmeanfreqx"         
+"fbodyaccjerkmeanfreqy"  
+“bodyaccjerkmeanfreqz"  
+"fbodyaccmeanfreqx"                 
+"fbodyaccmeanfreqy"                 
+"fbodyaccmeanfreqz"   
+
+
+
+variables containing “angle”
+Additional vectors obtained by averaging the signals in a signal window sample.
+
+"angletbodyaccmeangravity"         
+"angletbodyaccjerkmeangravitymean"  
+"angletbodygyromeangravitymean"     
+"angletbodygyrojerkmeangravitymean" 
+"anglexgravitymean"                 
+"angleygravitymean"                
+"anglezgravitymean"   
+
